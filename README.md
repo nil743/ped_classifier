@@ -1,2 +1,2 @@
 # ped_classifier
-classifying pedestrians
+classifying pedestrians with the help of CNN, with custom dataset and annotations.
